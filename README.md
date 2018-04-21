@@ -5,3 +5,5 @@
 The above drawing is from [ziggZaggFlower.py](https://github.com/magicmathmandarin/Turtle/blob/master/Zigzagged%20flower.py)
 by the 7 year old Vickie.  
 
+
+![alt text](https://github.com/magicmathmandarin/Turtle/blob/master/blueghuiflower.PNG)
