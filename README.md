@@ -12,3 +12,7 @@ Here is what she did: she found some code online, and she edit and edit until sh
 
 ## Fireworks 放烟火
 <img src="https://github.com/magicmathmandarin/Turtle/blob/master/beforeafter1.PNG" width="500" height="500">
+
+## Beautiful spiral 美丽的漩涡
+<img src="https://github.com/magicmathmandarin/Turtle/blob/master/white%20spiral.PNG" width="500" height="500">
+
