@@ -9,6 +9,8 @@ Here is what she did: she found some code online, and she edit and edit until sh
 
 ![alt text](https://github.com/magicmathmandarin/Turtle/blob/master/beforeafter1.PNG)
 <img src="https://github.com/magicmathmandarin/Turtle/blob/master/beforeafter1.PNG" width="400" height="400">
-
+img {
+    border-radius: 50%;
+}
 
 ![alt text](https://github.com/magicmathmandarin/Turtle/blob/master/blueghuiflower.PNG)
