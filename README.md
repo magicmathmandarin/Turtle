@@ -7,10 +7,8 @@ by the 7 year old Vickie.
 
 Here is what she did: she found some code online, and she edit and edit until she is happy with them.
 
-![alt text](https://github.com/magicmathmandarin/Turtle/blob/master/beforeafter1.PNG)
-<img src="https://github.com/magicmathmandarin/Turtle/blob/master/beforeafter1.PNG" width="400" height="400">
-img {
-    border-radius: 50%;
-}
+
+<img src="https://github.com/magicmathmandarin/Turtle/blob/master/beforeafter1.PNG" width="500" height="500">
+
 
 ![alt text](https://github.com/magicmathmandarin/Turtle/blob/master/blueghuiflower.PNG)
