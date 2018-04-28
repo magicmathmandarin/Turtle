@@ -10,5 +10,4 @@ Here is what she did: she found some code online, and she edit and edit until sh
 
 <img src="https://github.com/magicmathmandarin/Turtle/blob/master/beforeafter1.PNG" width="500" height="500">
 
-
-![alt text](https://github.com/magicmathmandarin/Turtle/blob/master/blueghuiflower.PNG)
+<img src="https://github.com/magicmathmandarin/Turtle/blob/master/blueghuiflower.PNG" width="500" height="500">
