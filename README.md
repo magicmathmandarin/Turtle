@@ -4,8 +4,9 @@
 
 The above drawing is from [ziggZaggFlower.py](https://github.com/magicmathmandarin/Turtle/blob/master/Zigzagged%20flower.py)
 by the 7 year old Vickie.
+![alt test](https://github.com/magicmathmandarin/Turtle/blob/master/colorflowgkjj.png)
 
-Here is what she did: she found some code online, and she edit and edit until she is happy with them.
+Here is what I did: I found some code online, and I edit and edit until I am happy with them.
 
 ## Blue and white flower 蓝白花
 <img src="https://github.com/magicmathmandarin/Turtle/blob/master/blueghuiflower.PNG" width="500" height="500">
